@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-
+names = ["Mike","Danielle","Ava","Link" ]
 def create_an_array
   
 end
